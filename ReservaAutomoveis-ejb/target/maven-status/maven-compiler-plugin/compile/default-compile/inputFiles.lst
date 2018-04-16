@@ -1,0 +1,16 @@
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\specification\AutomoveisSpecification.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\exceptions\AutomovelException.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\specification\ISpecification.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\repository\MarcaRepository.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\service\AutomovelService.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\exceptions\MarcaException.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\model\Automovel.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\util\ResponseException.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\model\Entidade.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\repository\AutomovelRepository.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\util\GenericValidation.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\model\Marca.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\util\Resource.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\service\MarcaService.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\model\DisponibilidadeAutomovel.java
+D:\Entrega\reservaAutomoveis\ReservaAutomoveis-ejb\src\main\java\br\com\felipebatista\reservaautomoveis\specification\MarcasSpecification.java
